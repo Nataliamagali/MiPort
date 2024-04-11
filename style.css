@@ -3,7 +3,7 @@ h1 {
     color: rgb(255, 0, 191);
   }
   h2 {
-    color: rgb(228, 98, 24);
+    color: rgb(105, 61, 206);
   }
   body {
     font-family: Arial, sans-serif;
@@ -19,7 +19,7 @@ h1 {
     top: 0;
     left: 0;
     width: 100%;
-    background-color: #fff;
+    background-color: #20f1f1;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
   }
   .menu-item {
